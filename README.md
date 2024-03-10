@@ -120,7 +120,11 @@ docker load < /mnt/sata1.3-1/myboxarm.tar
 本项目的开发参照了以下项目，感谢这些开源项目的作者：
 ### my-tv
 https://github.com/lizongying/my-tv
+
 ### BBLL
 https://github.com/xiaye13579/BBLL
 ### TVBox
 https://github.com/takagen99/Box
+
+### 6  运行命令
+在控制台输入 ./tv.sh
